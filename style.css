@@ -337,6 +337,10 @@ hr{
         height: 100%;
         padding-left: 0px;
     }
+    .banner-descr{
+
+        max-width: 80%;
+    }
     .contact{
         margin-top: 10px;
         
